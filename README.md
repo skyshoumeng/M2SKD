@@ -26,3 +26,14 @@ Corresponding-author: Jian Pu
 For the training details, please refer to the instructions provided in [PolarSeg](https://github.com/edwardzhou130/PolarSeg) and [Cylinder3D](https://github.com/xinge008/Cylinder3D) codebase.
 
 We thanks for the opensource [PolarSeg](https://github.com/edwardzhou130/PolarSeg) and [Cylinder3D](https://github.com/xinge008/Cylinder3D) codebase。 
+
+### Citation
+Please cite our paper if this code benefits your research:
+```
+@article{qiu2023multi,
+  title={Multi-to-Single Knowledge Distillation for Point Cloud Semantic Segmentation},
+  author={Qiu, Shoumeng and Jiang, Feng and Zhang, Haiqiang and Xue, Xiangyang and Pu, Jian},
+  journal={arXiv preprint arXiv:2304.14800},
+  year={2023}
+}
+```
